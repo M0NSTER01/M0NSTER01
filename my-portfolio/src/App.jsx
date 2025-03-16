@@ -56,7 +56,7 @@ function App() {
                         </div>
                     </div>
                     <div class="first-image">
-                        <img src="src\assets\develop-image.png" alt="" id="develop-image" />
+                        <img src="/develop-image.png" alt="" id="develop-image" />
 
                     </div>
                 </section>
@@ -68,62 +68,62 @@ function App() {
                     </div>
                     <div className="tech-list">
                         <div className="tech-card">
-                            <img src="src\assets\HTML.png" alt="" className='tech-img' />
+                            <img src="/HTML.png" alt="" className='tech-img' />
                             <div className="tech-name">HTML 5</div>
                         </div>
 
                         <div className="tech-card">
-                            <img src="src\assets\CSS.png" alt="" className='tech-img' />
+                            <img src="/CSS.png" alt="" className='tech-img' />
                             <div className="tech-name">CSS 3</div>
                         </div>
 
                         <div className="tech-card">
-                            <img src="src\assets\JAVASCRIPT.png" alt="" className='tech-img' />
+                            <img src="/JAVASCRIPT.png" alt="" className='tech-img' />
                             <div className="tech-name">Java Script</div>
                         </div>
 
                         <div className="tech-card">
-                            <img src="src\assets\TYPESCRIPT.png" alt="" className='tech-img' />
+                            <img src="/TYPESCRIPT.png" alt="" className='tech-img' />
                             <div className="tech-name">TypeScript</div>
                         </div>
 
                         <div className="tech-card">
-                            <img src="src\assets\C.png" alt="" className='tech-img' />
+                            <img src="/C.png" alt="" className='tech-img' />
                             <div className="tech-name">C</div>
                         </div>
 
                         <div className="tech-card">
-                            <img src="src\assets\JAVA.png" alt="" className='tech-img' />
+                            <img src="/JAVA.png" alt="" className='tech-img' />
                             <div className="tech-name">Java</div>
                         </div>
 
                         <div className="tech-card">
-                            <img src="src\assets\PYTHON.png" alt="" className='tech-img' />
+                            <img src="/PYTHON.png" alt="" className='tech-img' />
                             <div className="tech-name">Python</div>
                         </div>
 
                         <div className="tech-card">
-                            <img src="src\assets\GITHUB.png" alt="" className='tech-img' />
+                            <img src="/GITHUB.png" alt="" className='tech-img' />
                             <div className="tech-name">GitHub</div>
                         </div>
 
                         <div className="tech-card">
-                            <img src="src\assets\REACT.png" alt="" className='tech-img' />
+                            <img src="/REACT.png" alt="" className='tech-img' />
                             <div className="tech-name">React</div>
                         </div>
 
                         <div className="tech-card">
-                            <img src="src\assets\FIREBASE.png" alt="" className='tech-img' />
+                            <img src="/FIREBASE.png" alt="" className='tech-img' />
                             <div className="tech-name">Fire Base</div>
                         </div>
 
                         <div className="tech-card">
-                            <img src="src\assets\MYSQL.png" alt="" className='tech-img' />
+                            <img src="/MYSQL.png" alt="" className='tech-img' />
                             <div className="tech-name">MYSQL</div>
                         </div>
 
                         <div className="tech-card">
-                            <img src="src\assets\MONGO.png" alt="" className='tech-img' />
+                            <img src="/MONGO.png" alt="" className='tech-img' />
                             <div className="tech-name">MONGO</div>
                         </div>
                     </div>
@@ -137,7 +137,7 @@ function App() {
                     <div class="project-list">
 
                         <div class="project-card">
-                            <img src="src\assets\GARCIA.png" alt="" className='project-img' />
+                            <img src="/GARCIA.png" alt="" className='project-img' />
                             <span id="project-title"><b>GARCIA</b></span>
                             <div class="project-description">
                                 Gracia is a personal style recommendation website designed specifically for women. It analyzes
@@ -147,14 +147,14 @@ function App() {
                         </div>
 
                         <div class="project-card">
-                            <img src="src\assets\Medi_bot.png" alt="" className='project-img' />
+                            <img src="/Medi_bot.png" alt="" className='project-img' />
                             <span id="project-title"><b>Medi_Bot</b></span>
                             <div class="project-description">An ML driven Online Doctor. Which can predict diseases based on
                                 symptoms and can recommend you cure and which doctor to prefer.</div>
                         </div>
 
                         <div class="project-card">
-                            <img src="src\assets\Banking System.png" alt="" className='project-img' />
+                            <img src="/Banking System.png" alt="" className='project-img' />
                             <span id="project-title"><b>Banking System - Java</b></span>
                             <div class="project-description">
                                 This robust Java-based banking system streamlines everyday financial operations by supporting
@@ -166,7 +166,7 @@ function App() {
                         </div>
 
                         <div class="project-card">
-                            <img src="src\assets\Music Spot.png" alt="" className='project-img' />
+                            <img src="/Music Spot.png" alt="" className='project-img' />
                             <span id="project-title"><b>MUSIC SPOT</b></span>
                             <div class="project-description">
                                 This project is a simple music app that displays a list of songs in a card layout. Each card
